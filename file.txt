@@ -2,3 +2,4 @@ Removed old text
 Bug fixed
 New feature added
 Added new text
+Feature bug fix done
